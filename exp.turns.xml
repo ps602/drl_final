@@ -1,0 +1,27 @@
+<turns>
+  <interval begin="0" end="7200">
+    <fromEdge id="np1_nt1">
+      <toEdge id="nt1_nt2" probability="0.60"/>
+      <toEdge id="nt1_nt4" probability="0.40"/>
+    </fromEdge>
+    <fromEdge id="np2_nt1">
+      <toEdge id="nt1_nt2" probability="0.40"/>
+      <toEdge id="nt1_nt4" probability="0.60"/>
+    </fromEdge>
+    <fromEdge id="np6_nt3">
+      <toEdge id="nt3_nt2" probability="0.35"/>
+      <toEdge id="nt3_nt4" probability="0.65"/>
+    </fromEdge>
+    <fromEdge id="np5_nt3">
+      <toEdge id="nt3_nt2" probability="0.60"/>
+      <toEdge id="nt3_nt4" probability="0.40"/>
+    </fromEdge>
+    <fromEdge id="nt1_nt2">
+      <toEdge id="nt2_np4" probability="1.00"/>
+    </fromEdge>
+    <fromEdge id="nt1_nt4">
+      <toEdge id="nt4_np7" probability="1.00"/>
+    </fromEdge>
+  </interval>
+  <sink edges="nt4_np7 nt4_np8 nt2_np3 nt2_np4"/>
+</turns>

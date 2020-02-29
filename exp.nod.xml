@@ -1,0 +1,14 @@
+<nodes>
+  <node id="nt1" x="0.00" y="0.00" type="traffic_light"/>
+  <node id="nt2" x="200.00" y="0.00" type="traffic_light"/>
+  <node id="nt3" x="200.00" y="300.00" type="traffic_light"/>
+  <node id="nt4" x="0.00" y="300.00" type="traffic_light"/>
+  <node id="np1" x="-100.00" y="0.00" type="priority"/>
+  <node id="np2" x="0.00" y="-100.00" type="priority"/>
+  <node id="np3" x="200.00" y="-100.00" type="priority"/>
+  <node id="np4" x="300.00" y="0.00" type="priority"/>
+  <node id="np5" x="300.00" y="300.00" type="priority"/>
+  <node id="np6" x="200.00" y="400.00" type="priority"/>
+  <node id="np7" x="0.00" y="400.00" type="priority"/>
+  <node id="np8" x="-100.00" y="300.00" type="priority"/>
+</nodes>

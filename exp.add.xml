@@ -1,0 +1,10 @@
+<additional>
+  <laneAreaDetector file="ild.out" freq="1" id="np1_nt1_0" lane="np1_nt1_0" pos="-50" endPos="-1"/>
+  <laneAreaDetector file="ild.out" freq="1" id="np2_nt1_0" lane="np2_nt1_0" pos="-50" endPos="-1"/>
+  <laneAreaDetector file="ild.out" freq="1" id="np5_nt3_0" lane="np5_nt3_0" pos="-50" endPos="-1"/>
+  <laneAreaDetector file="ild.out" freq="1" id="np6_nt3_0" lane="np6_nt3_0" pos="-50" endPos="-1"/>
+  <laneAreaDetector file="ild.out" freq="1" id="nt1_nt2_0" lane="nt1_nt2_0" pos="-50" endPos="-1"/>
+  <laneAreaDetector file="ild.out" freq="1" id="nt3_nt4_0" lane="nt3_nt4_0" pos="-50" endPos="-1"/>
+  <laneAreaDetector file="ild.out" freq="1" id="nt3_nt2_0" lane="nt3_nt2_0" pos="-50" endPos="-1"/>
+  <laneAreaDetector file="ild.out" freq="1" id="nt1_nt4_0" lane="nt1_nt4_0" pos="-50" endPos="-1"/>
+</additional>

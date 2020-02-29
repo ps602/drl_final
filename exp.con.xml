@@ -1,0 +1,18 @@
+<connections>
+  <connection from="np1_nt1" to="nt1_nt2" fromLane="0" toLane="0"/>
+  <connection from="np1_nt1" to="nt1_nt4" fromLane="0" toLane="0"/>
+  <connection from="np2_nt1" to="nt1_nt2" fromLane="0" toLane="0"/>
+  <connection from="np2_nt1" to="nt1_nt4" fromLane="0" toLane="0"/>
+  <connection from="np5_nt3" to="nt3_nt4" fromLane="0" toLane="0"/>
+  <connection from="np5_nt3" to="nt3_nt2" fromLane="0" toLane="0"/>
+  <connection from="np6_nt3" to="nt3_nt4" fromLane="0" toLane="0"/>
+  <connection from="np6_nt3" to="nt3_nt2" fromLane="0" toLane="0"/>
+  <connection from="nt1_nt2" to="nt2_np4" fromLane="0" toLane="0"/>
+  <connection from="nt1_nt2" to="nt2_np3" fromLane="0" toLane="0"/>
+  <connection from="nt3_nt2" to="nt2_np4" fromLane="0" toLane="0"/>
+  <connection from="nt3_nt2" to="nt2_np3" fromLane="0" toLane="0"/>
+  <connection from="nt1_nt4" to="nt4_np7" fromLane="0" toLane="0"/>
+  <connection from="nt1_nt4" to="nt4_np8" fromLane="0" toLane="0"/>
+  <connection from="nt3_nt4" to="nt4_np7" fromLane="0" toLane="0"/>
+  <connection from="nt3_nt4" to="nt4_np8" fromLane="0" toLane="0"/>
+</connections>
